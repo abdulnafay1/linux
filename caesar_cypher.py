@@ -1,4 +1,3 @@
-solution:
 import sys
 
 def caesar_cipher(message, shift):
